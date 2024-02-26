@@ -1,1 +1,2 @@
-"# Electricity-Billing-System" 
+# Smart Ballot
+An Online voting system made using java
