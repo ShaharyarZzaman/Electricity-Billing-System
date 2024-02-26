@@ -1,0 +1,67 @@
+
+Username: mahi
+Password: 1234
+First Name: mahi
+Last Name: shaharyar
+Email: mahi@gmail.com
+Age: 20
+NID: 20234540
+Country: Bangladesh
+Gender: Male
+City: Dhaka
+Postal Code: 4567
+Username: asiq
+Password: 1234
+First Name: Ashik 
+Last Name: Billah
+Email: asiq@gmail.com
+Age: 21
+NID: 20237749
+Country: Bangladesh
+Gender: Male
+City: Dhaka
+Postal Code: 7889
+Username: mamun
+Password: 1234
+First Name: mohsin
+Last Name: mamun
+Email: mamun@gmail.com
+Age: 22
+NID: 20233824
+Country: Bangladesh
+Gender: Male
+City: Dhaka
+Postal Code: 4567
+Username: 1234
+Password: 1234
+First Name: mahi
+Last Name: mahi
+Email: huhuh
+Age: 0
+NID: Not eligible for NID
+Country: Bangladesh
+Gender: Male
+City: Dhaka
+Postal Code: 444
+Username: asd
+Password: asd
+First Name: mddiidjf
+Last Name: ddddd
+Email: dddd
+Age: 6
+NID: Not eligible for NID
+Country: Bangladesh
+Gender: Male
+City: Dhaka
+Postal Code: ddddd
+Username: 2345
+Password: 2345
+First Name: 1234
+Last Name: 11111
+Email: 1111
+Age: 28
+NID: 20233201
+Country: Bangladesh
+Gender: Male
+City: Dhaka
+Postal Code: 5555
